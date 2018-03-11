@@ -21,6 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: doctor51
 facebook_username: drrajesh.chauhan
 linkedin_username: drrajeshchauhan
+rss: rss
 google_analytics: UA-115513589-1
 
 # Build settings
